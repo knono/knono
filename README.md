@@ -1,5 +1,3 @@
-###  ey!!!
-
 ## 🔥 Some fun facts about me:
 
 * 💻 Love IT stuff.
