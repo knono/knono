@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maldonadohervas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knono)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Profile-blue?style=flat&logo=docker)](https://hub.docker.com/u/nono)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Profile-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/u/nono)
 
 
 <!--
